@@ -1,128 +1,132 @@
-<h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">AI Systems Engineer | Full Stack Developer | Building Agentic AI Products</h3>
+<h1 align="center">⚡ Jatin Sharma ⚡</h1>
+<h3 align="center">AI Systems Engineer | Agentic AI Builder | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Driven+Systems;Full-Stack+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Backend+%7C+Data+Engineering;Startup+Focused+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;LLM+%7C+RAG+%7C+Agentic+AI;FastAPI+%7C+Node.js+%7C+Next.js;Backend+Architecture+%7C+Data+Engineering;Startup-Focused+High-Ownership+Builder" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who I Am
 
-I build production-grade AI systems and scalable full-stack applications.
+I design and ship intelligent systems that combine:
 
-My focus is on designing intelligent workflows that combine:
-- LLMs & Agentic AI
-- Semantic Search & RAG pipelines
-- Scalable Backend Architectures
-- Real-time Frontend Systems
-- Data Engineering & ETL Pipelines
-
-I thrive in fast-paced startup environments where ownership, speed, and clarity matter.
-
----
-
-## 🧠 AI & Machine Learning
-
-- Python  
-- Scikit-learn  
-- TF-IDF & Embedding-based Similarity  
+- Agentic AI workflows  
 - Retrieval-Augmented Generation (RAG)  
-- LangChain  
-- LLM APIs (OpenAI, Claude)  
-- NLP Pipelines  
-- Model Evaluation & Prompt Optimization  
+- Scalable backend architectures  
+- Real-time frontend systems  
+- Data engineering pipelines  
+
+I thrive in high-ownership environments where speed, clarity, and product impact matter.
 
 ---
 
-## 🖥 Backend Engineering
+# ⚙️ Tech Stack
 
-- FastAPI  
-- Node.js  
-- REST APIs  
-- WebSockets  
-- JWT Authentication  
-- PostgreSQL  
-- MongoDB  
-- Redis  
-- SQL Optimization  
-- OOP & Clean Architecture  
+### 🧠 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
 
----
-
-## 🎨 Frontend Development
-
-- React.js  
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-- State Management (Redux / Zustand)  
-- Responsive & Real-Time UI Systems  
+- LLM APIs (OpenAI / Claude)
+- TF-IDF & Embedding-based Similarity
+- RAG Pipelines
+- LangChain
+- NLP & Prompt Optimization
+- Model Evaluation Workflows
 
 ---
 
-## ☁️ Infrastructure & Tools
+### 🖥 Backend Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,mongodb,redis,docker,aws" />
+</p>
 
-- Docker  
-- AWS (S3, Lambda – fundamentals)  
-- Git & GitHub  
-- Linux  
-- CI/CD Basics  
-- Postman  
+- REST APIs
+- JWT Authentication
+- WebSockets
+- SQL Optimization
+- Async Processing
+- Clean Architecture
 
 ---
 
-## 🔥 Featured Project
+### 🎨 Frontend Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
 
-### 🧠 HireNexus – AI-Powered Recruitment Platform
+- Real-Time Dashboards
+- State Management
+- Component Architecture
+- Responsive UI Systems
 
-End-to-end AI recruitment system integrating:
+---
+
+# 🚀 Featured Project
+
+## 🧠 HireNexus – AI Recruitment Intelligence Platform
+
+Full-stack AI hiring ecosystem integrating:
 
 - Resume parsing using NLP
-- TF-IDF based semantic matching
+- TF-IDF semantic matching
 - Eligibility scoring engine
 - AI-generated interview workflows
-- Full-stack architecture (React + Node + Python)
 - Real-time dashboards
-- Structured backend APIs
+- Backend API architecture
 
 Designed to reduce manual screening effort and enable data-driven hiring decisions.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 System Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jack121200&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jack121200&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jack121200&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🧩 What I’m Currently Working On
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🔥 Current Focus
 
 - Advanced Agentic AI Systems  
-- Improving Retrieval & Ranking Pipelines  
-- Backend Performance Optimization  
-- Building AI-first SaaS Products  
+- Retrieval & Ranking Optimization  
+- Backend Performance Engineering  
+- AI-first SaaS Product Development  
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect
 
-- LinkedIn: https://linkedin.com/in/jatin-sharma976  
-- Email: jatin97693@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/jatin-sharma976">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:jatin97693@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>“Build systems that scale. Build AI that works.”</b>
+<b>Build systems that scale. Build AI that works.</b>
 </p>
